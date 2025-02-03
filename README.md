@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo ayudar a los estudiantes y profesionales a com
 - [Descripción](#descripción)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
-- [Presentacion](#https://scotiabankcnco-my.sharepoint.com/:p:/g/personal/samuel_bolivar_cencosudscotiabank_cl/Ea6d1WCPt09HuwSvogm8_fUBCrN5Df_H5Oj_LZOEB6KzMg)
+- [Presentacion](https://scotiabankcnco-my.sharepoint.com/:p:/g/personal/samuel_bolivar_cencosudscotiabank_cl/Ea6d1WCPt09HuwSvogm8_fUBCrN5Df_H5Oj_LZOEB6KzMg)
 
 ## Descripción
 
